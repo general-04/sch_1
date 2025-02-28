@@ -1,0 +1,27 @@
+{
+  "name": "BSJManage",
+  "short_name": "BSJManage",
+  "description": "จัดการหลังบ้านข้อมูลนักเรียน",
+  "start_url": "/backend/index.php",
+  "scope": "/",
+  "permissions": [],
+  "display": "standalone",
+  "id": "com.bsj.manage",
+  "orientation": "any", 
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "author": "Chaimongkol and Veeris",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/assets/img/bsjmanage.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/bsjmanage.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

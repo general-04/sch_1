@@ -1,0 +1,43 @@
+.open-footer{
+ background: transparent ;/*#6c757d; */
+ width: 100%;
+ text-align: center;
+ color: #6c757d; 
+ transition: background 0.5s ease, color 0.5s ease, border 0.5s ease;
+ 
+}
+.open-footer:hover{
+ background: transparent;
+ color: #6c757d; 
+}
+.footer-navtive {
+ background-color: #333; 
+ color: #fff;
+ padding: 20px 0;
+ position: fixed;
+ bottom: 0; 
+ left: 0; 
+ width: 100%;
+ z-index: 1;
+}
+.f-content {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-flow: column wrap;
+}
+.f-head {
+ letter-spacing: 1px;
+ font-size: 400;
+ margin-bottom: 15px;
+ border-bottom: 1px solid #fff;
+}
+.f-by-dev {
+ letter-spacing: 1px;
+}
+.f-last {
+ margin: 2px 0;
+}
+.f-last > a{
+ color: #4c8efc;
+}
