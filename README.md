@@ -7,10 +7,7 @@
 Welcome to the BSJ SCHOOL web application. This web app is designed to help students and teachers manage school activities efficiently. Below is the description of the web application and its features.
 
 ### Features:
-- **Student Management**: View and manage student information.
-- **Teacher Dashboard**: Manage and monitor teacher activities.
-- **Class Scheduling**: Schedule and track classes.
-- **Grade Management**: Enter and view student grades.
+- **Data Management**: จัดการข้อมูลนักเรียน แก้ไขข้อมูล อัพเดทข้อมูล ลงข้อมูล การตรวจสอบว่ามาสายกี่ครั้ง
 
 ## Installation
 
