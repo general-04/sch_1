@@ -1,6 +1,6 @@
 # BSJ SCHOOL Web Application
 
-![BSJ School Logo](https://raw.githubusercontent.com/username/repository-name/main/assets/images/logo.png)
+![BSJ School Logo](https://raw.githubusercontent.com/general-04/sch_1/refs/heads/main/assets/img/bsjlogo.png)
 
 ## Version 1.0
 
